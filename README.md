@@ -1,5 +1,4 @@
-- 👋 Hi
-About Me
+
 Hi, I'm [Osama], a tech enthusiast passionate about cybersecurity. I'm excited to share my projects and collaborations with you here on GitHub!
 Expertise
 - Cybersecurity: threat analysis, penetration testing, security research, and compliance
